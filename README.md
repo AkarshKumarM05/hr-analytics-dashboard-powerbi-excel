@@ -1,7 +1,6 @@
 # 👔 HR Analytics Dashboard — Power BI & Excel
 
-![POWERBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![EXCEL](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![HR Analytics](https://img.shields.io/badge/HR-Analytics-blue?style=for-the-badge) ![DAX](https://img.shields.io/badge/DAX-Measures-blue?style=for-the-badge) 
-
+![POWERBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![EXCEL](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![HR Analytics](https://img.shields.io/badge/HR-Analytics-blue?style=for-the-badge)
 > An end-to-end HR analytics project analyzing employee attrition patterns using Power BI, Excel, and DAX measures with custom visualizations.
 
 ---
