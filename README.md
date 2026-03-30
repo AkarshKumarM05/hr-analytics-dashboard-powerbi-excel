@@ -289,7 +289,7 @@ Based on the HR analytics findings:
 
 ## 👨‍💻 Author & Contact
 
-**Akarsh Kumar**  
+**Akarsh Kumar Pandey**  
 B.Com (Hons) | Data Analytics Enthusiast
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tulnama02@gmail.com)
