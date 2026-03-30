@@ -284,8 +284,7 @@ Based on the HR analytics findings:
 
 **Full Dashboard View**
 
-![Dashboard Screenshot](assets/dashboard-screenshot.png)
-
+![Dashboard View**](assets/Screenshot%202026-03-26%20232944.png)
 ---
 
 ## 👨‍💻 Author & Contact
